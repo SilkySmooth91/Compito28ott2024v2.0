@@ -1,0 +1,93 @@
+
+
+header {
+    width: 100%;
+    margin: auto;
+}
+
+#logo {
+    width: 150px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#hr1 {
+    color: rgb(255, 209, 3);
+    margin: 0%;
+    
+}
+
+#sottotitolo {
+    font-family: "Domine", serif;
+    text-align: center;
+    background-color: rgba(255, 244, 227, 0.747);
+    color: rgb(2, 75, 2);
+    height: 30px;
+    padding-top: 8px;
+}
+
+#simply {
+    font-weight: 700;
+    font-size: larger;
+}
+
+main {
+    font-family: "Domine", serif;
+    width: 37%;
+    margin: auto;
+}
+h1 {
+    font-family: "Domine", serif;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 40px;
+    padding: 30px;
+    margin-bottom: 0;
+}
+
+#focaccia {
+    width: 702px;
+    height: 900px;
+    border-radius: 2%;
+}
+
+figcaption {
+    text-align: center;
+    color: rgb(139, 139, 139);
+    margin-top: 10px;
+}
+
+#hyperlink {
+    border-left: 2px solid rgb(255, 209, 3);
+    padding-left: 15px;
+    margin-bottom: 80px;
+    margin-top: 40px;  
+    
+}
+
+#p2 {
+    margin-bottom: 0;
+}
+
+.hr2 {
+    color: rgb(145, 204, 252);
+}
+
+#ul1 {
+    margin-bottom: 40px;
+}
+
+#ul2 {
+    margin-bottom: 60px;
+}
+
+#p3 {
+    padding-left: 40px;
+}
+
+footer {
+    width: 37%;
+    margin: auto;
+}
